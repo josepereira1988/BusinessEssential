@@ -1,0 +1,16 @@
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\Conexao.cfg
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\DBBE.deps.json
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\DBBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\ref\DBBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\DBBE.pdb
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.csproj.AssemblyReference.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.AssemblyInfoInputs.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.AssemblyInfo.cs
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.csproj.CoreCompileInputs.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\ref\DBBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.pdb
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\BasesBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\bin\Debug\net6.0\BasesBE.pdb
+C:\Users\ajc\Documents\Projetos\BusinessEssential\DBBE\obj\Debug\net6.0\DBBE.csproj.CopyComplete

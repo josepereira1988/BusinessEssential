@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lLon33aAIE6L91HFL8KuDMPF/QvCB+R2gwNdOFMiAIF0ipuk3EyVArrSuOzxWja+OcgGWzx4o3PIrF2iv8L5Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajc\\Documents\\Projetos\\BusinessEssential\\BETools\\BETools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajc\\.nuget\\packages\\consulta.cnpj\\1.0.1\\consulta.cnpj.1.0.1.nupkg.sha512",
+    "C:\\Users\\ajc\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\ajc\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

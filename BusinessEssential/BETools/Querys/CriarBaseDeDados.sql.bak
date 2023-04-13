@@ -1,0 +1,14 @@
+-- Query Criar base de dados Nova
+-- Criar Base de dados
+CREATE DATABASE @BancoDeDados;
+USE @BancoDeDados;
+
+-- Criar Tabelas
+-- Tabela de Usuarios
+
+CREATE TABLE CadastroTabela (
+id int NOT NULL AUTO_INCREMENT,
+NomeTabela Varchar(30),
+Descricao VARCHAR(30)
+PRIMARY KEY (id)
+);

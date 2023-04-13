@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DATA</id>
+    <version>1.0.0</version>
+    <authors>DATA</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.10" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ajc\source\repos\BusinessEssential-API\DATA\bin\Debug\net5.0\DATA.runtimeconfig.json" target="lib\net5.0\DATA.runtimeconfig.json" />
+    <file src="C:\Users\ajc\source\repos\BusinessEssential-API\DATA\bin\Debug\net5.0\DATA.dll" target="lib\net5.0\DATA.dll" />
+  </files>
+</package>

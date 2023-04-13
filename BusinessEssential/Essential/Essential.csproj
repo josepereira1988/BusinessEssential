@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BasesBE\BasesBE.csproj" />
+    <ProjectReference Include="..\DBBE\DBBE.csproj" />
+    <ProjectReference Include="..\ServiceBE\ServiceBE.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="RadioButtonBE.cs" />
+  </ItemGroup>
+
+</Project>

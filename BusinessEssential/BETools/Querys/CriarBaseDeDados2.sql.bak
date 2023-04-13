@@ -1,0 +1,20 @@
+-- Query Criar base de dados Nova
+-- Criar Base de dados
+CREATE DATABASE @BancoDeDados;
+USE @BancoDeDados;
+
+-- Criar Tabelas
+-- Tabela de Usuarios
+
+CREATE TABLE BEUsers (
+id int NOT NULL,
+Usuario Varchar(30) UNIQUE,
+Nome VARCHAR(60),
+Senha VARCHAR(14),
+Ativo BOOLEAN,
+PRIMARY KEY (id));
+
+INSERT BEUsers (id,Usuario,Nome,Senha,Ativo) VALUES ('1','@Usuario','@UserNome','@Senha',True);
+
+USE beconfig;
+INSERT cadastrosdb (Banco,Nome,CNPJ,VersaoBase) VALUES ('@BancoDeDados','@Nome','@CNPJ','@VersaoBase');

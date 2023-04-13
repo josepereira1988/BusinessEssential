@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZT8R5ozj+3iVUxcUFV6D8CJ+RWnLR/6+ba9wJeVFWWMOnNnjOeM7f3rLFvOayOiCc2YQf3SqwjVKiM0lV4vD7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajc\\Documents\\Projetos\\BusinessEssential\\BasesBE\\BasesBE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajc\\.nuget\\packages\\consulta.cnpj\\1.0.1\\consulta.cnpj.1.0.1.nupkg.sha512",
+    "C:\\Users\\ajc\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

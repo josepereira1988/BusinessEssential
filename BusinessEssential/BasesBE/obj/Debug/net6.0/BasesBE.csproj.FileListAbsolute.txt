@@ -1,0 +1,12 @@
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\bin\Debug\net6.0\BasesBE.deps.json
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\bin\Debug\net6.0\BasesBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\bin\Debug\net6.0\ref\BasesBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\bin\Debug\net6.0\BasesBE.pdb
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.csproj.AssemblyReference.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.AssemblyInfoInputs.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.AssemblyInfo.cs
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.csproj.CoreCompileInputs.cache
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\ref\BasesBE.dll
+C:\Users\ajc\Documents\Projetos\BusinessEssential\BasesBE\obj\Debug\net6.0\BasesBE.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvwwBmFvLTHgfhRAmY+GUc49rX3ZVrHQRzYTRKAjQanNGlU8B5boNOp/pDE94wLThYFfflWxAeKYm9XZp/lVaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajc\\Documents\\Projetos\\BusinessEssential\\ServiceBE\\ServiceBE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajc\\.nuget\\packages\\consulta.cnpj\\1.0.1\\consulta.cnpj.1.0.1.nupkg.sha512",
+    "C:\\Users\\ajc\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\ajc\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

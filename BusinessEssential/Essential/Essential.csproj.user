@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BEDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LabelBE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RadioButtonBE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CheckBoxBE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TextBoxBE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
